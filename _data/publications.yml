@@ -1,9 +1,10 @@
 main:
 
   - title: A Quantitative Analysis of Inappropriate Content, Age Rating Compliance, and Risks to Youth on the Whisper Platform
-    authors: Jeng-Yu Chou, Brian Levine
+    authors: <strong>Jeng-Yu Chou</strong>, Brian Levine
     conference_short: ARES
     conference: International Conference on Availability, Reliability and Security
     pdf: https://dl.acm.org/doi/pdf/10.1145/3664476.3670907
     code: https://github.com/jelchou/whisper_quantitative_analysis
     image: ./assets/img/ares_cosh_teaser.png
+    notes: Oral Presentation

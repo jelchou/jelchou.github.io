@@ -1,0 +1,15 @@
+main:
+
+  - title: Stochastic Meta-Learning for Augmentation Policy (SMAP): Enhancing Fine-Grained Image Classification
+    # authors: <strong>Jeng-Yu Chou</strong>, Brian Levine
+    # conference_short: ARES
+    # conference: International Conference on Availability, Reliability and Security
+    pdf: ./assets/files/stochastic_meta_learning.pdf
+    code: https://github.com/jelchou/cs682-project
+    image: ./assets/img/smap_pipeline_teaser.png
+    # notes: Oral Presentation
+
+  - title: Examining Medical Narratives of Eating Disorder Recovery on Reddit
+    pdf: ./assets/files/examining_medical_narratives.pdf
+    code: https://github.com/nguyentr17/cs685-narrative-analysis
+    image: ./assets/img/examining_medical_narratives_teaser.png
