@@ -18,4 +18,6 @@ I am a third-year MS-PhD student at the UMass Rescue Lab, advised by Prof. Brian
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 <!-- {% include_relative _includes/services.md %} -->
