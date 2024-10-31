@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a third-year MS-PhD student at the UMass Rescue Lab, advised by Prof. Brian Levine. My research interests include, but are not limited to, ML applications to security and privacy, such as AI-based content moderation of multimodal content and risk detection for youth in digital environments. In recent work, I have applied LLMs to analyze the policy adherence of social media content.
+I am a third-year MS-PhD student at the UMass Rescue Lab, advised by Prof. Brian Levine. My research interests include, but are not limited to, ML applications to security and privacy, such as AI-based content moderation of multimodal content and risk detection for youth in digital environments. 
+
+In recent work, I have applied LLMs to analyze the policy adherence of social media content.
 
 <!-- ## Research Interests
 
