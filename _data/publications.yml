@@ -14,4 +14,5 @@ main:
     conference_short: Findings of EMNLP
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing
     pdf: ./assets/files/emnlp2024.pdf
+    code: https://github.com/umass-forensics/community-similarity
     image: ./assets/img/emnlp2024_teaser.png
