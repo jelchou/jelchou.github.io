@@ -8,3 +8,10 @@ main:
     code: https://github.com/jelchou/whisper_quantitative_analysis
     image: ./assets/img/ares_cosh_teaser.png
     notes: Oral Presentation
+
+  - title: Enabling Cross-Platform Comparison of Online Communities Using Content and Opinion Similarity
+    authors: Prasanna Lakkur Subramanyam, <strong>Jeng-Yu Chou</strong>, Kevin K. Nam, Brian Levine
+    conference_short: Findings of EMNLP
+    conference: The 2024 Conference on Empirical Methods in Natural Language Processing
+    pdf: ./assets/files/emnlp2024.pdf
+    image: ./assets/img/emnlp2024_teaser.png
