@@ -16,4 +16,4 @@ main:
 
   - title: A Survey on Privacy and Safety in Diffusion Models
     pdf: ./assets/files/diffusion_models_privacy_and_safety_survey.pdf
-    image: ./assets/img/diffusion_models_privacy_and_safety_survey_teaser.png
+    image: ./assets/img/diffusion_models_privacy_and_safety_teaser.png
