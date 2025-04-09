@@ -13,3 +13,7 @@ main:
     pdf: ./assets/files/examining_medical_narratives.pdf
     code: https://github.com/nguyentr17/cs685-narrative-analysis
     image: ./assets/img/examining_medical_narratives_teaser.png
+
+  - title: A Survey on Privacy and Safety in Diffusion Models
+    pdf: ./assets/files/diffusion_models_privacy_and_safety_survey.pdf
+    image: ./assets/img/diffusion_models_privacy_and_safety_survey_teaser.png
