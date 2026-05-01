@@ -14,6 +14,7 @@ In recent work, I have applied LLMs to analyze the policy adherence of social me
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[April 2026]** Represented UMass Amherst at the 2026 [Catalyzing Advocacy in Science and Engineering (CASE)](https://www.aaas.org/programs/catalyzing-advocacy-in-science-and-engineering) Workshop organized by the [American Association for the Advancement of Science (AAAS)](https://www.aaas.org/) to take a deep dive into the role of science in policymaking and the federal policy-making process. I had the opportunity to meet with offices of Senators Ed Markey and Elizabeth Warren and Representatives Jim McGovern and Katherine Clark and advocate for federal research funding alongside fellow students from BU, Tufts, and Brandeis. 
 - **[May 2025]** Earned my MS degree from UMass Amherst!
 - **[July 2024]** ✈ Attended ARES in Vienna, Austria and gave my first academic presentation!
 - **[May 2024]** [Paper](https://dl.acm.org/doi/10.1145/3664476.3670907) accepted to ARES COSH Workshop 2024.
